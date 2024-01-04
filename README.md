@@ -1,1 +1,1 @@
-### Issue tracking and documentation for Omni Order
+## Public issue tracking for the development of Omni Order
