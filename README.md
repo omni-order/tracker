@@ -1,2 +1,1 @@
-# development
-Issue tracking and documentation for Omni Order
+### Issue tracking and documentation for Omni Order
